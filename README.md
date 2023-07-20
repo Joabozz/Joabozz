@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiel Joab Hernandez</h1>
 <h3 align="center">Starting my journey as a developer, seek opportunities for learning and growth in this dynamic and competitive field</h3>
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align="right" width="400" alt="Learning" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" />
 
 - 📫 How to reach me **adiel.hernandez@unitec.edu**
 
