@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiel Joab Hernandez</h1>
 <h3 align="center">Starting my journey as a developer, seek opportunities for learning and growth in this dynamic and competitive field</h3>
 
-<img align="right" width="400" alt="Learning" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" />
+<img align="right" width="400" alt="Learning" src="https://cdn.dribbble.com/users/121405/screenshots/4761763/110.png" />
 
 - 📫 How to reach me **adiel.hernandez@unitec.edu**
 
