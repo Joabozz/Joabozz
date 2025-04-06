@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adiel Joab Hernandez</h1>
-<h3 align="center">QA Automation Engineer, seek opportunities for learning and growth in this dynamic and competitive field</h3>
+<h3 align="center">QA Automation Engineer seeking opportunities for learning and growth in this dynamic and competitive field.</h3>
 
 <img align="right" width="400" alt="Learning" src="https://cdn.dribbble.com/users/121405/screenshots/4761763/110.png" />
 
